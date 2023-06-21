@@ -1,0 +1,1 @@
+Esta é uma biblioteca de validação de links web a partir de um texto .md 
